@@ -1,0 +1,5 @@
+{
+  "name": "JS Comment Stripper",
+  "description": "A professional tool to remove single-line and multi-line comments from JavaScript files using optimized regular expressions.",
+  "requestFramePermissions": []
+}
